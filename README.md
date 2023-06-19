@@ -6,7 +6,7 @@
 
 pkg upgrade ; pkg update
 
-pkg install python 
+pkg ins pkg tall python 
 
 pkg install mpv ; pkg install play-audio
 
@@ -20,4 +20,4 @@ cd humble
 
 git pull
 
-python JBF.py
+python filex.py
