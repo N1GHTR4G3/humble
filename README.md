@@ -12,7 +12,7 @@ pkg install mpv ; pkg install play-audio
 
 pip install -r requirements.txt
 
-git clone https://github.com/NIGHTRAGE-SOLO/humble.git
+git clone https://github.com/N1GHTR4G3/humble
 
 cd humble
 
